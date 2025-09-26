@@ -118,7 +118,7 @@ public class NotesManager {
 
 
         
-README.ME
+README.MD
 
 
 # 📝 Text-Based Notes Manager (Java)
